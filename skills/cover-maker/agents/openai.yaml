@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cover Maker"
+  short_description: "用真实图片制作保留原标题的中文内容封面"
+  default_prompt: "使用 $cover-maker，用我提供的图片和原标题制作中文内容封面。"
