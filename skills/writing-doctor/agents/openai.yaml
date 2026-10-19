@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Doctor"
+  short_description: "保留作者声音，诊断和修改中文内容草稿"
+  default_prompt: "使用 $writing-doctor 诊断这篇草稿，并在保留我的判断和语气的前提下修改最关键的问题。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Topic to Outline"
+  short_description: "把模糊选题变成可研究、可写作的中文内容简报"
+  default_prompt: "使用 $topic-to-outline，把我的一句话想法整理成有证据需求和写作决策的内容简报。"

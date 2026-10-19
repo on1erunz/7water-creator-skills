@@ -1,0 +1,4 @@
+interface:
+  display_name: "7WC · 7water Creator"
+  short_description: "澄清内容问题，研究证据，判断选题并复盘反馈"
+  default_prompt: "使用 $7wc 判断我当前最该解决的内容问题，并给出有依据的下一步。"
